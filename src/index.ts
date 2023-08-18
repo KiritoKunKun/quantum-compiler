@@ -14,4 +14,4 @@ app.on('post', '/submissions', async (req, res) => {
   });
 });
 
-app.listen(3333, () => console.log('Server is running on port 3333!'));
+app.listen(6542, () => console.log('Server is running on port 6542!'));
