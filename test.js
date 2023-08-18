@@ -1,0 +1,1 @@
+module.exports.main = function(a, b) {console.log(a + b);}
